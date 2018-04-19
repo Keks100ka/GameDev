@@ -1,9 +1,9 @@
 # GameDev
-Noob-game don't see at this pls :/
+Noob-game don't look at this pls :/
 
 Club of newbee game-developers;
 
-Our game dedicated to movie "Cyberpunk";
+Our game is dedicated to the movie "Cyberpunk";
 
 
 
